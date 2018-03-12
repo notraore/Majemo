@@ -9,8 +9,8 @@
     <li>Lead developer (my friend)</li>
     <li>Core gameplay developer</li>
  </ul>
-
-<h4>We had two weeks to realize this project that was originaly a game to promote and fund a short-film via http://ulule.fr/majemo <h4> <br />
+ 
+<h4>We had two weeks to realize this project that was originaly a game to promote and fund a short-film via http://ulule.fr/majemo <br /> We used Unreal Engine 4 engine to do this mobile project only available on android and Windows 32bits/64bits (source files and Windows version available on my profile).<h4> <br />
 
 ![majemogi](https://user-images.githubusercontent.com/27351943/36728831-6ab69f86-1bc2-11e8-93f3-827b2ea476fd.gif)
 
