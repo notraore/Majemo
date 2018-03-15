@@ -7,7 +7,6 @@
     <li>2D artist</li>
     <li>Sound designer</li>
     <li>Lead developer (my friend)</li>
-    <li>Core gameplay developer (Myself)</li>
  </ul>
 <h4>We had two weeks to realize this project that was originaly a game to promote and fund a short-film via http://ulule.fr/majemo <br /> <br />We used  <b>Unreal Engine 4</b> engine to do this mobile project only available on android and Windows 32bits/64bits (source files and Windows version available on my profile).<h4> <br />
 
