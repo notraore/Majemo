@@ -1,6 +1,6 @@
 <h1>Majemo</h1>
 
-<h3>This the .apk version of a project called "Majemo" that we made with a friend of mine using Unreal Engine 4.17 Framework Blueprint.</h3>
+<h3>This the .apk version of a project called "Majemo" that we made with a friend of mine using Unreal Engine 4.xx Framework Blueprint.</h3>
 
 <h4>For this project, we worked with :</h4>
 <ul>
